@@ -69,7 +69,7 @@ class Die
   {
     noStroke();
     fill(230,230,230);
-    rect(myX,myY,30,30);
+    rect(myX,myY,30,30,10);
 
     if (myDots == 1){
     noStroke();
